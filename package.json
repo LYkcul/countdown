@@ -1,0 +1,25 @@
+{
+    "name": "countdown",
+    "version": "0.0.1",
+    "description": "Countdown",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/LYkcul/countdown.git"
+    },
+    "keywords": [
+      "hydrooj"
+    ],
+    "author": "LYkcul",
+    "license": "AGPL-3.0-or-later",
+    "bugs": {
+      "url": "https://github.com/LYkcul/countdown/issues"
+    },
+    "homepage": "https://github.com/LYkcul/countdown/#readme",
+    "dependencies": {
+      "moment": "^2.29.1"
+    }
+  }
